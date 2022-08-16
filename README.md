@@ -1,5 +1,5 @@
-<h1 align="center">![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LEE%20SAEWA&fontSize=90)
-<img src="https://user-images.githubusercontent.com/97646713/184794965-66b06e0a-07d7-4a28-b821-5d5d3c480dfa.jpg"></h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LEE%20SAEWA&fontSize=90)
+<img src="https://user-images.githubusercontent.com/97646713/184794965-66b06e0a-07d7-4a28-b821-5d5d3c480dfa.jpg">
 
 <h2 align="center">🔨 Tech Stack 🔨</h2>
 
