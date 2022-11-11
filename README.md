@@ -77,13 +77,14 @@ I Love Orca, Dolphin, Whale and Polar bear.
 <h2 align="center">🌱 I’m currently learning</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=React&logoColor=white"/>
 </p>
 
 <h2 align="center">📫 How to reach me</h2>
 
 <p align="center">
 <a href="mailto:saewa0424@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="http://swlee.pe.kr/"><img src="https://img.shields.io/badge/My Portfolio Site-DD0B78?style=flat-square&logo=Starship&logoColor=white"/></a>
+<a href="https://leesaewa.github.io/design_portfolio/"><img src="https://img.shields.io/badge/My Portfolio Site-DD0B78?style=flat-square&logo=Starship&logoColor=white"/></a>
 </p>
 
 <h2 align="center">My Github Status</h2>
