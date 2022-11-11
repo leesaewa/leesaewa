@@ -77,7 +77,7 @@ I Love Orca, Dolphin, Whale and Polar bear.
 <h2 align="center">🌱 I’m currently learning</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
 
 <h2 align="center">📫 How to reach me</h2>
