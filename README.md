@@ -1,105 +1,53 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LEE%20SAEWA&fontSize=90)
-<img src="https://user-images.githubusercontent.com/97646713/184794965-66b06e0a-07d7-4a28-b821-5d5d3c480dfa.jpg">
+<img src="./profile-header.jpg" alt="A humpback whale rising through sunlit deep-blue water" width="100%" />
 
-<div align="center">
-Hi! 👋
+# LEE SAEWA
 
-I Love Orca, Dolphin, Whale and Polar bear.
+**UI Developer & Design Engineer** — a designer-turned frontend engineer, building UI that lasts.
 
-</div>
+**KR** 디자이너 출신 프론트엔드 개발자입니다. 화면 너머의 구조까지 설계해, 다음 변경에도 버티는 UI를 만듭니다.<br>
+**EN** A designer-turned frontend engineer with 10 years in UI. I design the structure behind the screen so the UI survives the next change.<br>
+**JP** デザイナー出身のフロントエンドエンジニアです。画面の裏側の構造まで設計し、次の変更にも耐えられるUIをつくります。
 
-<div align="center">
-안녕하세요! 👋
+**[→ Portfolio](https://saewa-portfolio.vercel.app/)** · **[✉ saewa0424@gmail.com](mailto:saewa0424@gmail.com)**
 
-저는 범고래, 돌고래, 고래 그리고 북극곰을 사랑해요.
+---
 
-</div>
+## 🌊 Featured — Portfolio 2026
 
-<div align="center">
-こんにちは。👋
+**[Live site](https://saewa-portfolio.vercel.app/)** · **[Source](https://github.com/leesaewa/saewa_portfolio)**
 
-私はシャチ、イルカ、クジラそしてホッキョクグマが大好きです。
+`React 19` `TypeScript` `GSAP` `ScrollTrigger` `Lenis` `Tailwind CSS v4` `Vite`
 
-</div>
+- Scroll-driven motion built only with free GSAP — per-character blur-in titles, a stacked work-card scroll, and SVG wave lines animated through path attributes
+- Trilingual (ko / en / ja) through a custom i18n context, with every visible string typed and translated
+- Semantic landmarks, keyboard focus states, and screen-reader labels, following WCAG 2.1 AA
 
-<h2 align="center">🔨 Tech Stack 🔨</h2>
+## Selected Work
 
-<h3 align="center">Front end(Major)</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/>
+| Project | What I did | Stack |
+| --- | --- | --- |
+| **NDR Security Analytics** <br><sub>Sands Lab · Lead FE</sub> | AI anomaly and asset-threat dashboards, a resizable multi-window modal system, and a shared ag-Grid table | Vue 3, ECharts, Three.js, Storybook |
+| **Cloud Security SaaS for Japan's SMB market** <br><sub>Sands Lab · Lead FE</sub> | Threat dashboards, 3D threat visualization, PDF reports, and ko / en / ja i18n for the Japan launch | Vue 3, SCSS, ECharts, Three.js |
+| **The Daily Prophet SNS** <br><sub>Side project · Solo</sub> | A newspaper-style SNS for writing and sharing article posts · [Live](https://nwitter-reloaded-c85df.web.app) · [Code](https://github.com/leesaewa/nwitter) | React, TypeScript, Firebase |
+| **MARAUTUBE** <br><sub>Side project · Solo</sub> | A video platform with uploads, live streaming, and comments · [Live](https://wetube-reloaded-production-bdcc.up.railway.app/) · [Code](https://github.com/leesaewa/wetube-reloaded) | Node.js, Express, MongoDB |
+
+## Experience
+
+| Period | Company | Role | Highlights |
+| --- | --- | --- | --- |
+| 2023 — now | Sands Lab. | Frontend Engineer | Vue 3 security products, ECharts node-layout algorithm, Vue 2 legacy refactor, Docker / Nginx deployment |
+| 2022 | Smartnow | UI Developer & Designer | Game-community app UI and landing page renewal |
+| 2018 — 2021 | Brangista. | UI Developer & Designer | **Japanese e-commerce** builds and operation on Rakuten, Yahoo! Shopping, EC-CUBE, and MakeShop · adidas landing pages · trained the design teams in Osaka and Taiwan |
+| 2015 — 2017 | Web agencies | UI Developer & Designer | Responsive publishing, cross-browsing, and accessibility |
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,sass,vite,figma,docker,nginx&perline=10" alt="TypeScript, React, Next.js, Vue, Tailwind CSS, Sass, Vite, Figma, Docker, Nginx" />
 </p>
 
-<h3 align="center">Back end</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black"/>
-<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/> -->
-</p>
+Also: GSAP · Storybook · ECharts · Three.js · ag-Grid · Zustand · TanStack Query · i18n · Web accessibility
 
-<h3 align="center">Design</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-</p>
+---
 
-<h3 align="center">CMS/Shopping mall</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Cafe24-146af0?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rakuten-BF0000?style=flat-square&logo=Rakuten&logoColor=white"/>
-<img src="https://img.shields.io/badge/Yahoo!-6001D2?style=flat-square&logo=Yahoo!&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white"/>
-<img src="https://img.shields.io/badge/MakeShop-1e57dc?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/ECCUBE-FECE2F?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/futureshop-FF4B00?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/auPAY market-eb5505?style=flat-square&logoColor=white"/>
-</p>
-
-<h3 align="center">Using Tool</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Brackets-FF0000?style=flat-square&logo=Adobe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
-</p>
-
-<h2 align="center">🌱 I’m currently learning</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-</p>
-
-<h2 align="center">📫 How to reach me</h2>
-
-<p align="center">
-<a href="mailto:saewa0424@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://leesaewa.github.io/design_portfolio/"><img src="https://img.shields.io/badge/My Portfolio Site-DD0B78?style=flat-square&logo=Starship&logoColor=white"/></a>
-</p>
-
-<h2 align="center">My Github Status</h2>
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesaewa&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align="center">
-
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leesaewa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
-
-</div>
+<sub>🐋 Off-screen, I love orcas, dolphins, whales, and polar bears, which is why the portfolio lives in a deep ocean.</sub>
