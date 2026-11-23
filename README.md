@@ -4,9 +4,9 @@
 
 **UI Developer & Design Engineer** — a designer-turned frontend engineer, building UI that lasts.
 
-**KR** 디자이너 출신 프론트엔드 개발자입니다. 화면 너머의 구조까지 설계해, 다음 변경에도 버티는 UI를 만듭니다.<br>
-**EN** A designer-turned frontend engineer with 10 years in UI. I design the structure behind the screen so the UI survives the next change.<br>
-**JP** デザイナー出身のフロントエンドエンジニアです。画面の裏側の構造まで設計し、次の変更にも耐えられるUIをつくります。
+**KR** 디자이너 출신 프론트엔드 개발자입니다. 화면 너머의 구조까지 설계해, 기능이 늘어나도 흔들리지 않는 UI를 만듭니다.<br>
+**EN** A designer-turned frontend engineer with 10 years in UI. I design the structure behind the screen, so the UI stays steady as features grow.<br>
+**JP** デザイナー出身のフロントエンドエンジニアです。画面の裏側の構造まで設計し、機能が増えても揺らがないUIをつくります。
 
 **[→ Portfolio](https://saewa-portfolio.vercel.app/)** · **[✉ saewa0424@gmail.com](mailto:saewa0424@gmail.com)**
 
